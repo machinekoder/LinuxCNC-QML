@@ -1,0 +1,5 @@
+module LinuxCNC
+Stat 1.0 Stat.qml
+Command 1.0 Command.qml
+Axis 1.0 Axis.qml
+ErrorChannel 1.0 ErrorChannel.qml
